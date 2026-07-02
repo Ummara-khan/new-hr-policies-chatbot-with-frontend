@@ -1,9 +1,8 @@
 fastapi
-uvicorn[standard]
 chromadb
 sentence-transformers
 groq
 python-dotenv
 pydantic
 httpx
-numpy
+
